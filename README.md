@@ -1,5 +1,5 @@
 # D365 Finance & Operations Support Playbook
-
+![Project overview](d365_support_playbook_overview.png)
 A portfolio project showing how I would approach functional support for **Microsoft Dynamics 365 Finance & Operations (F&O)**: triage, root-cause investigation, runbooks, UAT, month-end support, and spotting recurring issues.
 
 ## Honest scope
